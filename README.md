@@ -1,11 +1,16 @@
 # portfolio
 
 <h1 align="center">Hi 👋, I'm Guilherme Alcantara</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">💼 FullStack at [Doctus](https://www.doctus.com.br/)</h3>
 
-- 🔭 I’m currently working on [Physiocore Oficial](https://physiocoreoficial.com.br/)
+- 🔭 I’m currently working some projects:
+  - [Physiocore Oficial](https://physiocoreoficial.com.br/)
+  - [Physiocore Sistema](https://sistema.physiocoreoficial.com.br/)
+  - [Zbiotec](https://zbiotec.efacilities.app.br/)
+  - [Sicolos](timesheet.sicolos.com.br)
+  - [Portal Cliente GrupoRS](portalcliente.grupors.net.br)
 
-- 🌱 I’m currently learning **Drupal,**
+- 🌱 I’m currently learning **Drupal, Angular, Wordpress**
 
 - 👨‍💻 All of my projects are available at [...](...)
 
@@ -13,9 +18,7 @@
 
 - 📫 How to reach me **guilhermenalcantara@gmail.com**
 
-- 📄 Know about my experiences [teste de experiencias](teste de experiencias)
-
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Connect with me: guilhermenalcantara@gmail.com</h3>
 <p align="left">
 </p>
 
