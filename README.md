@@ -17,8 +17,7 @@
 - 💬 Ask me about **C#, PHP, Xamarin**
 
 - 📫 How to reach me **guilhermenalcantara@gmail.com**
-
-<h3 align="left">Connect with me: guilhermenalcantara@gmail.com</h3>
+- 
 <p align="left">
 </p>
 
