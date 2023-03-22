@@ -7,8 +7,8 @@
   - [Physiocore Oficial](https://physiocoreoficial.com.br)
   - [Physiocore Sistema](https://sistema.physiocoreoficial.com.br)
   - [Zbiotec](https://zbiotec.efacilities.app.br)
-  - [Sicolos](timesheet.sicolos.com.br)
-  - [Portal Cliente GrupoRS](portalcliente.grupors.net.br)
+  - [Sicolos](https://timesheet.sicolos.com.br)
+  - [Portal Cliente GrupoRS](https://portalcliente.grupors.net.br)
 
 - 🌱 I’m currently learning **Drupal, Angular, Wordpress**
 
