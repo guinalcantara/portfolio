@@ -12,7 +12,7 @@
 
 - 🌱 I’m currently learning **Drupal, Angular, Wordpress**
 
-- 👨‍💻 All of my projects are available at [...](...)
+- 👨‍💻 All of my projects are available at https://guinalcantara.github.io/aboutme/
 
 - 💬 Ask me about **C#, PHP, Xamarin**
 
